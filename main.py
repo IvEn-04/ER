@@ -1,4 +1,3 @@
-name = "Butan"
-print(name)
-name = "Zurna"
-print(name)
+username = "Emir"
+mesage = f"Hi, {username}."
+print(mesage)
