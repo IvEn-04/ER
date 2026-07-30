@@ -1,3 +1,4 @@
-username = "Emir"
-mesage = f"Hi, {username}."
-print(mesage)
+username = "Vladimir zed"
+print(username.upper())
+print(username.lower())
+print(username.title())
