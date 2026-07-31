@@ -1,1 +1,3 @@
-print('"Philosophers have only explained the world in different ways, but the point is to change it."\nMarx')
+famous_person = "Seneca"
+mesage = '"Study to know not more, but better."' 
+print(f"{mesage}\n{famous_person}")
