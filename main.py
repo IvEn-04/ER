@@ -1,6 +1,4 @@
-username = " IvEn-04  "
-print(username.strip())
-print(username.rstrip())
-print(username.lstrip())
-print(f"\n{username}")
-print(f"\t{username}")
+print(4+4)
+print(16-8)
+print(1*8)
+print(int(80/10))
