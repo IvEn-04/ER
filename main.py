@@ -1,4 +1,1 @@
-username = "Vladimir zed"
-print(username.upper())
-print(username.lower())
-print(username.title())
+print('"Philosophers have only explained the world in different ways, but the point is to change it."\nMarx')
