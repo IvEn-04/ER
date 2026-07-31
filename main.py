@@ -1,3 +1,6 @@
-famous_person = "Seneca"
-mesage = '"Study to know not more, but better."' 
-print(f"{mesage}\n{famous_person}")
+username = " IvEn-04  "
+print(username.strip())
+print(username.rstrip())
+print(username.lstrip())
+print(f"\n{username}")
+print(f"\t{username}")
